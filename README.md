@@ -16,7 +16,3 @@ Este projeto é uma aplicação que utiliza a API do GitHub para buscar reposit�
 
 - **Front-end**: React.
 - **API**: GitHub REST API v3.
-- **Persistência de Dados**:
-  - Armazena no Firestore os repositórios buscados.
-  - Mantém histórico de buscas e resultados.
-
